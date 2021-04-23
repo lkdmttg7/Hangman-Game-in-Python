@@ -1,5 +1,4 @@
 import random
-import time
 # Initial Steps to invite in the game:
 print("\nWelcome to Hangman Game\n")
 name = input("Enter your name: ")
